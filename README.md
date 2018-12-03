@@ -52,4 +52,7 @@ git push --set-upstream origin my_example_branch
 (subsequent times) update the branch on Github
 ```
 git push
+
+**List of all files changed in a commit**
+git diff-tree --no-commit-id --name-only -r <commit-ish>
 ```
