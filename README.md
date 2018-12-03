@@ -53,3 +53,7 @@ git push --set-upstream origin my_example_branch
 ```
 git push
 ```
+### How to Undo a previous commit 
+....
+git reset --hard HEAD
+....
