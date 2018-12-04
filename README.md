@@ -53,3 +53,7 @@ git push --set-upstream origin my_example_branch
 ```
 git push
 ```
+
+Rename a branch
+
+git branch -m <new-branch-name>
